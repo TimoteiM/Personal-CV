@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Timotei's Personal Site</title>
+  </head>
+  <body>
+    <table cellspacing="20">
+      <tr>
+        <td><img src="Profile picture.png" width="200" height="200" alt="Timothy's profile pictre"</img></td>
+        <td><h1>Moscaliuc Timotei - Computer Science Student</h1>
+        <h4><em>IT engineer at <strong><a href="https://www.endava.com/">Endava</a></strong></em></h4>
+        <h4>I am a chess and accordion player, with a friendly personality.</h4></td>
+      </tr>
+    </table>
 
-You can use the [editor on GitHub](https://github.com/TimoteiM/Personal-CV/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<hr>
+<h3>Skills:</h3>
+<table>
+  <tr>
+    <td>Python</td>
+    <td>★★★★☆</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>★★★☆☆</td>
+  </tr>
+  <tr>
+    <td>C++</td>
+    <td>★★★☆☆</td>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>★★★☆☆</td>
+  </tr>
+</table>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<hr>
 
-```markdown
-Syntax highlighted code block
+<h3>Hobbies:</h3>
+<ol>
+  <li>Playing accordion</li>
+  <li>Long walks</li>
+  <li>Wahtcing Movies</li>
+  <li>Programming</li>
 
-# Header 1
-## Header 2
-### Header 3
+ <hr> 
 
-- Bulleted
-- List
+</ol>
+<table border="2">
+  <thead>
+    <tr>
+      <th>Dates</th>
+      <th>Occupation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <td>2021-2025</td>
+    <td>Student at Stefan cel Mare University</td>
+  </tr>
+  <tr>
+    <td>Present</td>
+    <td>IT engineer</td>
+  </tr>
+  </tbody>
+  <tfoot>
+    
+  </tfoot>
+  
+</table>
+<hr>
+  <h3><a href="personal_projects.html">Personal projects</a></h3>
+  <h3><a href="contact.html">Contact me</a></h3>
+</ol>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TimoteiM/Personal-CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  </body>
+</html>
